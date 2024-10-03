@@ -2,7 +2,7 @@
 
 
 Footer
-
+Login
 SignUp
 
 Burger
@@ -13,8 +13,14 @@ Card
 Button
 Dropdown
 Switch
+Accordion
 Carousel
 Dashboard
 Loader
+Widget
+Parallax
+
+Modal
+Transicion
 
 
